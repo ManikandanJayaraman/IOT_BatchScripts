@@ -6,7 +6,7 @@
 ::  End of Script.
 ::
 ::******************************************************************************
-::   File Name:           Auto_Cancel_Jobs_stated_Queue_InProgress_With_IOTDevices.bat thingname.bat
+::   File Name:           Auto_Cancel_Jobs_stated_Queued_InProgress_With_IOTDevices.bat thingname
 ::   Description:         Script can be part for Continuous deployment task for IOT devices
 ::   Revision History
 ::   --------------------------------------------------------------------------
